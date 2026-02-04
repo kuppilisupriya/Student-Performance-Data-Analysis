@@ -1,0 +1,23 @@
+student-performance-analysis/
+│
+├── data/
+│   └── student_performance.csv
+│
+├── notebooks/
+│   └── student_performance_analysis.ipynb
+│
+├── scripts/
+│   └── analysis.py
+│
+├── visuals/
+│   └── performance_charts.png
+│
+├── reports/
+│   └── insights_report.pdf
+│
+├── README.md
+│
+├── requirements.txt
+│
+└── excel/
+    └── student_performance_analysis.xlsx
